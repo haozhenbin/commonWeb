@@ -1,0 +1,109 @@
+<html>
+<html>
+<head>
+<title>show html title</title>
+<script src="__ROOT__/Public/js/jquery.min.js"></script>
+<script type="text/javascript">
+
+
+function getData(){
+	//判断是否有选择上传文件
+            var imgPath = $("#uploadFile").val();
+            if (imgPath == "") {
+                alert("请选择上传图片！");
+                return;
+            }
+            //判断上传文件的后缀名
+            var strExtension = imgPath.substr(imgPath.lastIndexOf('.') + 1);
+            if (strExtension != 'jpg' && strExtension != 'gif'
+            && strExtension != 'png' && strExtension != 'bmp') {
+                alert("请选择图片文件");
+                return;
+            }
+
+  var col1 =  $("#col1").val();
+  var col2 =  $("#col2").val();
+  var col3 =  $("#col3").val();
+  var col4 =  $("#col4").val();
+  var col5 =  $("#col5").val();
+  var col6 =  $("#col6").val();
+  var tb = $("#tb").val();
+  //var col5 = "token";
+  //var val5 = $("#token").val();
+  var val1 =  $("#val1").val();
+  var val2 =  $("#val2").val();
+  var val3 =  $("#val3").val();
+  var val4 =  $("#val4").val();
+  var val5 =  $("#val5").val();
+  var val6 =  $("#val5").val();
+
+   
+   var formData = new FormData();
+   formData.append('file', $("#uploadFile")[0].files[0]);
+   formData.append(col1,val1);
+   formData.append(col2,val2);
+   formData.append(col3,val3);
+   formData.append(col4,val4);
+   formData.append(col5,val5);
+   formData.append(col6,val6);
+  
+	$.ajax({
+	    url: 'http://132.232.65.200:8899/asset/res/index/putAssetImgForForm',
+	    type: 'post',
+	    processData: false,
+	    contentType: false,
+	    data: formData,
+	    success: function (data) {
+	        //alert("ok")
+	        $("#show").html(data);
+	    }
+	})
+ // $.post("/asset/res/index/putAssetImgForForm",
+ // 	obj,
+ // 	function(data){
+ //   	$("#show").html(data);
+ // });
+}
+
+
+</script>
+</head>
+<body>
+<hr/>
+<!-- <input type="hidden" name="token" id="token" value="{$Request.token}" /> -->
+	<div>
+		表名<br/>
+		<input type="text" name="tb" id="tb" value="putAssetImgForForm">
+	</div>
+	<hr/>
+	<div>
+		字段名&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;字段值<br/>
+		<input type="text" name="col1" id="col1" value="token">:<input type="text" name="val1" id="val1" value="0f1ad64573bbc9a5202c25dc2ea76407">
+	</div>
+	<div>
+		<input type="text" name="col2" id="col2" value="asset_num">:<input type="text" name="val2" id="val2" value="12-13085">
+	</div>
+	<div>
+		<input type="text" name="col3" id="col3" value="imgSeq">:<input type="text" name="val3" id="val3" value="1">
+	</div>
+	<div>
+		<input type="text" name="col4" id="col4" value="asset_name">:<input type="text" name="val4" id="val4" value="机械泵">
+	</div>
+	<div>
+		<input type="text" name="col5" id="col5" value="">:<input type="text" name="val5" id="val5" value="">
+	</div>
+	<div>
+		<input type="text" name="col6" id="col6" value="">:<input type="text" name="val6" id="val6" value="">
+	</div>
+	<div>
+	<input type="file" id="uploadFile" runat="server" />
+	</div>
+	<div>
+		<input type="button" value="post" onclick="getData();" />
+		<button type="button" onclick="getData();">点我</button>
+	</div>
+	
+	<hr/>
+	<h1 id="show"></h1>
+</body>
+</html>

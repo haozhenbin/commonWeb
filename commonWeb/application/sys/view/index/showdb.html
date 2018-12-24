@@ -1,0 +1,13 @@
+{include file="index/header" title='查询语料库' /}
+	<h1>show Db "data" info under. </h1>
+	<h2>列表（{$rt->total()}）</h2>
+	{volist name="rt" id="texts"}
+	<div>【ID】:{$texts.ID}</div>
+	<div>【内容】:{$texts.CONTENT}</div>
+	<div>【状态】:{$texts.STATUS}</div>
+	<div>【上传人】:{$texts.CREATEORNAME}</div>
+	<div>【字数】:{$texts.TOTAL_COUNT}</div>
+	<hr>
+	{/volist}
+	{$rt->render()}
+{include file="index/footer" /}

@@ -1,0 +1,27 @@
+<html>
+<html>
+<head>
+<title>show html title</title>
+<script src="__ROOT__/Public/js/jquery.min.js"></script>
+<script type="text/javascript">
+$(function(){
+ getData(); // 第一次加载数据
+ // 开启定时任务，时间间隔为3000 ms。
+ setInterval(function(){
+ 	getData();
+ }, 30000);
+});
+
+function getData(){
+ $.get("/corpora/index/index/getjd/id/3998", function(data){
+   	$("#showid").text(data);
+ });
+};
+
+
+</script>
+</head>
+<body>
+	<h1 id="showid"></h1>
+</body>
+</html>

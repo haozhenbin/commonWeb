@@ -1,0 +1,1314 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"corpora_t",
+				"t_corpora_extract"
+			],
+			[
+				"zd",
+				"zdinfo"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"bo",
+				"block"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"key",
+				"keylist"
+			],
+			[
+				"li",
+				"like"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"t",
+				"title	Attr"
+			],
+			[
+				"con",
+				"colspan	Attr"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"sysu",
+				"sysuser"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"at",
+				"article_id"
+			],
+			[
+				"in",
+				"integral"
+			],
+			[
+				"cla",
+				"classifyID"
+			],
+			[
+				"atr",
+				"article_id"
+			],
+			[
+				"md",
+				"md5"
+			],
+			[
+				"te",
+				"teleNo"
+			],
+			[
+				"sys",
+				"sys_index"
+			],
+			[
+				"role",
+				"roleName"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"tra",
+				"target	Attr"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"he",
+				"offsetHeight"
+			],
+			[
+				"pading",
+				"padding-right"
+			],
+			[
+				"padin",
+				"padding-left"
+			],
+			[
+				"form",
+				"formatOper"
+			],
+			[
+				"reg",
+				"reg_userid"
+			],
+			[
+				"art",
+				"article_id"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"border",
+				"border-left-width"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"border-l",
+				"border-left-color"
+			],
+			[
+				"border-lef",
+				"border-left-width"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"la",
+				"x-large"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"m",
+				"multiple	Attr"
+			],
+			[
+				"onk",
+				"onkeyup	Attr"
+			],
+			[
+				"re",
+				"replaceAll"
+			],
+			[
+				"hml",
+				"htmlBody"
+			],
+			[
+				"backgroud",
+				"background-color"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"html",
+				"htmlBody"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"r",
+				"rows"
+			],
+			[
+				"foat",
+				"float"
+			],
+			[
+				"bot",
+				"margin-bottom"
+			],
+			[
+				"le",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"ran",
+				"randchar"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"ca",
+				"class	Attr"
+			],
+			[
+				"ap",
+				"appendTo"
+			],
+			[
+				"fla",
+				"float"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"fn",
+				"font-size"
+			],
+			[
+				"d",
+				"draggable"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"o",
+				"option"
+			],
+			[
+				"tool",
+				"tooltip"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"im",
+				"itemStyle"
+			],
+			[
+				"av",
+				"average"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"isin",
+				"is_int"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"sr",
+				"src"
+			],
+			[
+				"Con",
+				"content"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"good",
+				"goodprice"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"en",
+				"enableFilter"
+			],
+			[
+				"data",
+				"datagrid"
+			],
+			[
+				"cs",
+				"csvalue"
+			],
+			[
+				"err",
+				"error_log"
+			],
+			[
+				"ine",
+				"InnerID"
+			],
+			[
+				"ag",
+				"text-align"
+			],
+			[
+				"di",
+				"div2"
+			],
+			[
+				"div",
+				"div2"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"alig",
+				"align-self"
+			],
+			[
+				"sqls",
+				"sqlstr2"
+			],
+			[
+				"mysql_ro",
+				"mysql_num_rows"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"useri",
+				"userimg"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/index/controller/Index.php",
+			"settings":
+			{
+				"buffer_size": 23054,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/hsk/Common/Common/function.php",
+			"settings":
+			{
+				"buffer_size": 32313,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/index/view/index/testpost.html",
+			"settings":
+			{
+				"buffer_size": 1288,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/common.php",
+			"settings":
+			{
+				"buffer_size": 15137,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/hsk/Home/View/Index/nav_zfcsample2.html",
+			"settings":
+			{
+				"buffer_size": 7785,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/hsk/Home/View/Index/nav_zfcsample.html",
+			"settings":
+			{
+				"buffer_size": 7716,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/api/config.php",
+			"settings":
+			{
+				"buffer_size": 25,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/index/view/index/showss.html",
+			"settings":
+			{
+				"buffer_size": 337,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/hsk/Home/Event/LogicEvent.class.php",
+			"settings":
+			{
+				"buffer_size": 71548,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Toggle Menu",
+		"selected_items":
+		[
+			[
+				"Toggle Menu",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"Convert Case: Swap Case"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xamppNew/htdocs/corpora",
+		"/D/xamppNew/htdocs/corpora/application",
+		"/D/xamppNew/htdocs/corpora/application/index",
+		"/D/xamppNew/htdocs/corpora/application/index/controller",
+		"/D/xamppNew/htdocs/corpora/application/index/model",
+		"/D/xamppNew/htdocs/corpora/application/index/view",
+		"/D/xamppNew/htdocs/corpora/application/index/view/index",
+		"/D/xamppNew/htdocs/corpora/public",
+		"/D/xamppNew/htdocs/corpora/public/js"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/hsk/Home/View/Index/nav_zfcsample_data.html",
+		"/D/xamppNew/htdocs/corpora/application/api/model/User.php",
+		"/D/xamppNew/htdocs/corpora/application/api/model/Userattr.php",
+		"/D/xamppNew/htdocs/corpora/application/index/controller/Blog.php",
+		"/D/xamppNew/htdocs/corpora/application/index/model/Blog.php",
+		"/D/xamppNew/htdocs/corpora/application/route.php",
+		"/D/xamppNew/htdocs/corpora/application/api/controller/v1/User.php",
+		"/D/xamppNew/htdocs/corpora/application/api/controller/v2/User.php",
+		"/D/xamppNew/htdocs/corpora/application/api/controller/Index.php",
+		"/D/xamppNew/htdocs/corpora/application/common.php",
+		"/D/xamppNew/htdocs/corpora/application/index/view/index/footer.html",
+		"/D/xamppNew/htdocs/corpora/application/index/common.php",
+		"/D/xampp/htdocs/hsk/Common/Common/function.php",
+		"/C/Users/kl990/Desktop/showjd.html",
+		"/D/xamppNew/htdocs/corpora/application/api/common.php",
+		"/D/xamppNew/htdocs/corpora/.htaccess",
+		"/D/xamppNew/htdocs/corpora/application/lib_splitword_full.php",
+		"/D/xamppNew/htdocs/corpora/application/api/controller/v1/user.php",
+		"/D/xamppNew/htdocs/corpora/application/api/model/corporaExtract.php",
+		"/D/xamppNew/htdocs/corpora/application/index/view/index/showdb.html",
+		"/D/xamppNew/htdocs/corpora/application/api/model/userattr.php",
+		"/D/xamppNew/htdocs/corpora/application/config.php",
+		"/D/xamppNew/htdocs/corpora/application/api/controller/v1/corporaTexts.php",
+		"/D/xamppNew/htdocs/corpora/application/api/controller/v2/corporaTexts.php",
+		"/D/xamppNew/htdocs/corpora/application/index/model/corporaTexts.php",
+		"/D/xamppNew/htdocs/corpora/application/api/config.php",
+		"/D/xampp/htdocs/hsk/Home/View/Index/home.html",
+		"/D/xamppNew/htdocs/corpora/application/index/model/corpora_textsModel.class.php",
+		"/D/xamppNew/htdocs/corpora/vendor/pscws/test.php",
+		"/C/Users/kl990/Desktop/readme.txt",
+		"/D/xamppNew/htdocs/corpora/vendor/pscws/pscws4.class.php",
+		"/D/xamppNew/htdocs/corpora/vendor/pscws/xdb_r.class.php",
+		"/C/Users/kl990/Downloads/pscws4-20081221/pscws4.class.php",
+		"/D/xampp/htdocs/es/Common/Common/function.php",
+		"/E/xampp/htdocs/hsk/Public/htmltpl/js/admin.js",
+		"/E/xampp/htdocs/hsk/Public/htmltpl/js/apps.js",
+		"/E/xampp/htdocs/hsk/Common/Common/function.php",
+		"/E/xampp/htdocs/hsk/Admin/Controller/IndexController_20180811.class.php",
+		"/E/xampp/htdocs/hsk/Admin/View/layout2.html",
+		"/E/xampp/htdocs/hsk/Admin/Controller/IndexController.class.php",
+		"/E/xampp/htdocs/hsk/Home/Event/LogicEvent.class.php",
+		"/E/xampp/htdocs/hsk/Admin/View/Index/ttex.html",
+		"/E/我的软件/01语料库/重构/程序/hsk/Admin/Controller/IndexController.class.php",
+		"/E/xampp/htdocs/hsk/Admin/View/Index/nav_zfcOrder.html",
+		"/E/xampp/htdocs/hsk/Admin/View/Index/nav_zfcsample_data2.html",
+		"/E/xampp/htdocs/hsk/Admin/View/Index/nav_zfcsample2.html",
+		"/E/xampp/htdocs/hsk/Admin/View/Index/cp.html",
+		"/E/xampp/htdocs/hsk/Public/htmltpl/css/apps.css",
+		"/E/xampp/htdocs/hsk/Home/View/Login/index.html",
+		"/E/xampp/htdocs/hsk/Home/View/Index/index.html",
+		"/E/xampp/htdocs/hsk/Home/View/Index/nav_zfcjs.html",
+		"/C/Users/haozb/Desktop/ddd.html",
+		"/E/xampp/htdocs/hsk/.htaccess",
+		"/E/xampp/htdocs/ThinkPHP/Tpl/think_exception1.tpl",
+		"/E/xampp/htdocs/hsk/Home/View/Index/ttex_2018810.html",
+		"/E/xampp/htdocs/hsk/Home/View/Index/nav_zfcsample2.html",
+		"/E/xampp/htdocs/hsk/Home/View/Index/ttex.html",
+		"/E/xampp/htdocs/hsk/Home/Controller/IndexController.class.php",
+		"/E/xampp/htdocs/hsk/Home/View/Index/nav_zfcOrder.html",
+		"/E/xampp/htdocs/hsk/Home/View/Index/nav_zfcOrder_bak.html",
+		"/E/xampp/htdocs/hsk/Home/View/Index/ttex-bak.html",
+		"/E/xampp/htdocs/ThinkPHP/Tpl/think_exception.tpl",
+		"/C/Users/haozb/Desktop/index.php",
+		"/E/xampp/htdocs/ThinkPHP/Library/Think/Log.class.php",
+		"/E/xampp/htdocs/ThinkPHP/Library/Think/Db/Driver.class.php",
+		"/E/xampp/htdocs/hsk/Public/htmltpl/js/push.js",
+		"/E/xampp/htdocs/hsk/Home/Controller/LoginController.class.php",
+		"/E/xampp/htdocs/hsk/Public/htmltpl/js/login.js",
+		"/E/xampp/htdocs/hsk/Home/View/Index/nav_tj_cp.html",
+		"/E/xampp/htdocs/hsk/Public/htmltpl/css/admin.css",
+		"/E/xampp/htdocs/hsk/Home/View/Index/nav_tj_fc.html",
+		"/E/xampp/htdocs/hsk/Home/View/Index/index-zx.html",
+		"/E/xampp/htdocs/hsk/index.php",
+		"/E/xampp/htdocs/hsk/Common/Common/lib_splitword_full.php",
+		"/E/xampp/htdocs/hsk/Common/Util/pscws4.class.php",
+		"/G/my_fy.html",
+		"/C/Users/haozb/Desktop/程序/Common/Conf/config.php",
+		"/C/Users/haozb/Desktop/程序/Home/Conf/config.php",
+		"/E/xampp/htdocs/hsk/Home/View/Index/nav_zfcjs_data.html",
+		"/E/xampp/htdocs/hsk/Home/View/Index/nav_zfcsample_data.html",
+		"/E/xampp/htdocs/hsk/Home/Event/LogicEvent.class在优化特殊检索前备份、.php",
+		"/E/xampp/htdocs/hsk/Public/htmltpl/js/layui.all.js",
+		"/E/xampp/htdocs/hsk/Home/Event/LogicEvent_temp.class.php",
+		"/E/xampp/htdocs/hsk/Home/Event/lib_splitword_full.php",
+		"/E/xampp/htdocs/ThinkPHP/Library/Think/Log/Driver/File.class.php",
+		"/E/xampp/htdocs/hsk/Common/Tools/PageAs.class.php",
+		"/E/xampp/htdocs/hsk/Common/Tools/PageAss1.class.php",
+		"/E/xampp/htdocs/hsk/Common/Tools/Pages.class.php",
+		"/E/xampp/htdocs/hsk/Home/View/Index/nav_tj_gk.html",
+		"/E/xampp/htdocs/hsk/Home/View/Index/nav_tj_cwxxhz.html",
+		"/E/xampp/htdocs/hsk/Common/Conf/config.php",
+		"/E/xampp/htdocs/hsk/Common/Tools/PageA.class.php",
+		"/E/xampp/htdocs/hsk/Home/Conf/config.php",
+		"/C/Users/haozb/Desktop/hsk/index.html",
+		"/E/xampp/htdocs/hsk/Home/View/Index/hz.html",
+		"/E/xampp/htdocs/hsk/Home/View/Index/nav_fk.html",
+		"/E/xampp/htdocs/hsk/Home/View/Index/nav_abdtj_data.html",
+		"/C/Users/haozb/Desktop/hsk/Home/View/Index/index.html",
+		"/E/xampp/htdocs/hsk/Home/View/Index/nav_fk_old.html",
+		"/E/xampp/htdocs/hsk/Home/View/Index/ttex-old.html",
+		"/E/我的软件/01语料库/重构/update/IndexController.class.php",
+		"/D/elk/logstash-5.6.0/bin/logstash.bat",
+		"/D/elk/kibana-5.6.0-windows-x86/config/kibana.yml",
+		"/D/ik56/pom.xml",
+		"/D/elasticsearch-6.2.3/config/elasticsearch.yml",
+		"/D/xampp/htdocs/pbookDemo/Home/View/Index/reading-old.html",
+		"/D/xampp/htdocs/pbookDemo/Public/htmltpl/css/admin.css",
+		"/D/xampp/htdocs/pbookDemo/index.php",
+		"/D/xampp/htdocs/pbookDemo/Home/Conf/config.php",
+		"/D/xampp/htdocs/tras/view/v_sys/articleChedDetail.html",
+		"/D/xampp/htdocs/tras/view/style/xz.css",
+		"/D/xampp/htdocs/tras/class/sys/Info.class.php",
+		"/D/xampp/htdocs/tras/view/scripts/articleChedDetail.js",
+		"/D/xampp/htdocs/tras/view/v_sys/myTaskList.html",
+		"/D/xampp/htdocs/tras/class/sys/sys_index.class.php",
+		"/D/xampp/htdocs/tras/view/v_sys/register.html",
+		"/D/xampp/htdocs/tras/view/v_sys/article_chk.html",
+		"/D/xampp/htdocs/tras/view/scripts/article_chk.js",
+		"/D/xampp/htdocs/tras/view/style/trac-navi.css",
+		"/D/xampp/htdocs/tras/view/public/navi.php",
+		"/D/xampp/htdocs/tras/class/sys/article.class.php",
+		"/D/xampp/htdocs/tras/view/scripts/mytasklist.js",
+		"/D/xampp/htdocs/tras/view/v_sys/article_list.html",
+		"/D/xampp/htdocs/tras/view/scripts/article_list.js",
+		"/D/xampp/htdocs/tras/view/v_sys/my_articleList.html",
+		"/D/xampp/htdocs/tras/view/scripts/myarticlelist.js",
+		"/D/xampp/htdocs/tras/view/scripts/datagrid-detailview.js",
+		"/D/xampp/htdocs/tras/view/v_sys/article_js.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"E:\\xampp\\htdocs\\hsk\\Home\\View\\Index",
+			"E:\\xampp\\htdocs\\hsk\\Home\\View",
+			"E:\\xampp\\htdocs\\hsk\\Home\\View\\Index"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getjsonhsk",
+			"reg",
+			"gettablelist4",
+			"marktext4",
+			"zfc",
+			"sample",
+			"sel",
+			"function sel",
+			"sel",
+			"create_time",
+			"ture",
+			"class PSCWS4",
+			"vendor",
+			"$map['errci']  = '0';",
+			"layout",
+			"changehskaction",
+			"myhsk",
+			"tj2_xx_down_js",
+			"tj2_xx",
+			"tj2_xx_down_C",
+			"_zfc",
+			"d_zfc",
+			"D_zfc",
+			"nav_zfcjs_data",
+			"zfc",
+			"memory_limit",
+			"selecthskclick",
+			"sample",
+			"hskdown",
+			"samplelink",
+			"getS",
+			"limit",
+			"100M",
+			"changeorderdata",
+			"Order",
+			"getOrder",
+			"layPagerForHsk",
+			"layPages",
+			"layPagerForHsk",
+			"changeStr",
+			"exefunc",
+			"layPagerForHsk",
+			"changeStr",
+			"getRows",
+			"exefunc",
+			"Order_",
+			"order_",
+			"hintsx",
+			"getjsonhsk",
+			"exefunc",
+			"layPagerForHsk",
+			"table_tr",
+			"exefunc",
+			"layPagerForHsk",
+			"selecthskclick",
+			"layPagerForHsk",
+			"match",
+			"nav_myshk_data",
+			"getdata",
+			"changehskdata",
+			"+",
+			"layPagerForHsk",
+			"getRows",
+			"layPagerForHsk",
+			"page_url_dataview",
+			"init_url",
+			"$init_url",
+			"init_url",
+			"nav_tj",
+			"nat_tj",
+			"full",
+			"\";\n",
+			"fchsk",
+			"fctext",
+			"fc",
+			"index",
+			"index/",
+			"getS",
+			"hskdown",
+			"marktext4",
+			"hintsx",
+			"<em",
+			"em",
+			"fulltextQueryStr",
+			"chg_url",
+			"nav_zfcsample2",
+			"selecthskclick",
+			"chg_url",
+			"changeStr",
+			"psize",
+			"page_url_dataview",
+			"get25001",
+			"set_dict",
+			"lib_splitword_full",
+			"$txt = \",\";\n    // fwrite($myfile, $txt);\n    // $a= fread($myfile,filesize(\"./data/1.txt\"));\n    // //echo $a;读取文件内容\n    // fclose($myfile);\n\n    // file_put_contents('./report.txt', $date);\n    // $data=$this->exporttxt($arr,'','帐号'.time());\n    // print_r($data);",
+			"log",
+			"cp",
+			"ajaxReturn",
+			"getData",
+			"selPss",
+			"selpage",
+			"selpss",
+			"selpa",
+			"\"",
+			"'",
+			"page_url_dataview",
+			"nav_tj",
+			"strip-line",
+			"layui-bg-orange",
+			"selP",
+			"abdtjdetaildata",
+			"page_url_dataview",
+			"detailz1",
+			"selp",
+			"sel",
+			"fk",
+			"getjson",
+			"highlight",
+			"hsk",
+			"layui-show",
+			" lay-accordion",
+			"},{",
+			"articleDetail",
+			"delete",
+			"submitGoal",
+			"getGoalList",
+			"getArticleList",
+			"goal"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"\\'",
+			"",
+			",\"rat\":\"80%\"},{",
+			"$js[] =",
+			"Log::",
+			"'themes/icons/",
+			"600px",
+			").on(",
+			"on",
+			".",
+			"']",
+			"$row['",
+			"	  ",
+			"cID",
+			"$infou[\"UserID\"];"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/index/controller/Index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5122,
+								5122
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2993.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/xampp/htdocs/hsk/Common/Common/function.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20952,
+								20905
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 15049.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/index/view/index/testpost.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								518,
+								518
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 110.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/common.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3228,
+								3228
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2509.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/xampp/htdocs/hsk/Home/View/Index/nav_zfcsample2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								929,
+								960
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/xampp/htdocs/hsk/Home/View/Index/nav_zfcsample.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								899,
+								899
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "application/api/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "application/index/view/index/showss.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								313,
+								313
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/xampp/htdocs/hsk/Home/Event/LogicEvent.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22125,
+								22125
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11529.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 32.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/PHP/PHP.sublime-build",
+	"project": "corpora.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

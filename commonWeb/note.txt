@@ -1,0 +1,17 @@
+创建模块
+php think build --module admin
+
+如果application 更改为其他名称，如apps
+那么需要在根目录下think文件内容更改
+// 定义项目路径
+define('APP_PATH', __DIR__ . '/apps/');
+
+
+2、模板渲染注意事项
+	controller需要增加引用  use think\Controller;
+	controller需要继承
+	示例
+	use think\Controller;
+	class Index extends Controller
+
+3、控制器名称不能大写，否则找不到模板，因为大写前面多了一个下划线连接，建议不能用大写表示

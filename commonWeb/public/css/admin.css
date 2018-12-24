@@ -1,0 +1,94 @@
+*{
+	font-size:12px;
+}
+em{
+    /*background-color: yellow;*/
+    font-weight: bold;
+    color: red;
+    font-style:normal;
+}
+body {
+    font-family:verdana,helvetica,arial,sans-serif;
+    margin:1px;
+}
+.highlightkey{
+    font-weight: bold;
+    background-color: #FFFF00;
+    color: red;
+}
+.content-body{
+	margin:0px 0px; text-align: center;margin:auto;overflow:hidden;
+}
+
+#logo_img{  
+    top:0px;  
+    width: 100%;
+    text-align:left;
+    height:40px;  
+    background:url('/hsk/public/htmltpl/img/title_back_img.png') repeat-x 0 0px;
+}
+.menu_item{
+    width: 100px;
+}
+ .ui-menu {
+    width: 150px; 
+ }
+ .ui-menu:hover {
+    width: 150px; 
+ }
+ .layui-nav-img1{
+    width: 40px;
+    height: 40px;
+    background-color: #FFFFCC;
+    margin-top: 2px;
+ }
+.layui-body{overflow-y: scroll;}
+hr{
+    border:none;
+    border-top:1px solid #0099CC;
+    height:0;
+    margin:5px; 
+    line-height:5px;
+}
+.zfc-input{
+    width: 80px;
+}
+/*#body_content{  
+    margin:5px 190px 0px 190px;  
+    border:solid 0px #F5F5F5;  
+    height:100%;  
+    min-height: 450px;
+    /*max-height: 800px;*/
+    /*min-width: 800px;*/
+    /*background-color: #F5F5F5;*/
+/*} */
+.shuoming{
+    position:block; 
+    width: 800px;
+    /*height:1000px;*/
+    border:1px solid #cee3e9;
+    padding: 10px;
+    background:#f1f7f9;
+    border-radius: 4px 4px 4px 4px ;
+    margin: auto;
+    font-size: 16px;
+    line-height: 30px;
+}
+.shuoming_text{
+    display: block;
+    padding: 10px;
+    margin: 15px 0 0 0;
+    font-size: 16px;
+    line-height: 2;
+    color: #333;
+    white-space:normal;
+    word-break:break-all;
+    word-wrap: break-word;
+    background-color: #F5F5F5;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+}
+
+.shouming-head{
+    text-align: center;
+}
