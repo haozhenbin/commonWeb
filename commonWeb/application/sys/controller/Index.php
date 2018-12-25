@@ -1052,10 +1052,11 @@ class Index extends Controller
     $re = input('post.');
     $UserID = $re['UserID']?$re['UserID']:'';
     // $UserID = $re['UserID']?$re['UserID']:'';
+
     $page = 0;
     $pagesize = 20;
     if(isset($re['page'])){$page = $re['page'];}
-    if(isset($re['pagesize'])){$page = $re['pagesize'];}
+    if(isset($re['pagesize'])){$pagesize = $re['pagesize'];}
     if($UserID!=''){
     return json(getRoleByUserID($UserID, $page, $pagesize)); 
     }
